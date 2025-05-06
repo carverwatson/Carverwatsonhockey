@@ -33,7 +33,7 @@
         </section>
     </main>
     <footer class="bg-gray-800 text-white text-center py-4">
-        <p>Contact: <a href="mailto:carver.watson@gmail.com" class="hover:underline">carver.watson@gmail.com</a> | (920) 287-4014</p>
+        <p>Contact: <a href="mailto:cwwatson@dbq.edu" class="hover:underline">cwwatson@dbq.edu</a> | (920) 287-4014</p>
         <p><a href="https://linkedin.com/in/carverwatson" target="_blank" class="hover:underline">LinkedIn Profile</a></p>
     </footer>
 </body>
